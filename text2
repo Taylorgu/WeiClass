@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta charset="utf-8" />
+		<title>任务2</title>
+        <link type="text/css" rel="stylesheet" href="CSS/1.css">
+	</head>
+
+	<body>
+        <header>
+            <img src="PHOTO/baidu.png" alt="header img" width=120 height="50"/>
+           
+            <nav>
+              
+                <a href="#">导航链接一</a>
+                <a href="#">导航链接二</a>
+                <a href="#">导航链接三</a>
+                <a href="#">导航链接四</a>
+              
+            </nav>
+        </header>
+		
+	
+		<main class="text">
+			</ul>
+    		<h2>文章一级标题</h2>
+			<h3>文章二级标题</h3>
+			<span>文章作者</span>
+			<span>文章发表时间</span>
+			<p>这是一段很长的文字balabala...
+			<a>这有一个可爱的链接</a>
+            </p>		
+                <img src="../../Html/Photo/兔子.png" width="100px" />
+	    	<p>balabala...
+                </p>
+		</main>
+		
+		<main class="photo">
+			<h2>图片</h2>
+			<div>
+				<p>好看的图片</p>
+		    	<img src="../../Html/Photo/兔子.png" width="100px" />
+			</div>
+				
+		</main>
+			
+        <main class="table">
+			<h2>最后一篇文章一级标题</h2>
+			<h3>文章二级标题</h3>
+			<span>文章作者</span>
+			<span>文章发表时间</span>
+		    <span class="slogan">
+					<li>排名1</li>
+					<li>排名2</li>
+		            <li>排名3</li>               
+		    </span>
+		    <table border="1px" cellspacing="0" cellpadding="0">
+					<tr class="table1">
+						<th width="550">表头</th>
+						<th width="550">表头</th>
+						<th width="250">表头</th>
+					</tr>
+					<tr>
+						<td>表内容单元格</td>
+						<td>表内容单元格</td>
+						<td>
+							<a href="">操作</a>
+						</td>
+					</tr>
+					<tr>
+						<td>表内容单元格</td>
+						<td>表内容单元格</td>
+						<td>
+							<a href="">操作</a>
+						</td>
+					</tr>
+					<tr>
+						<td>表内容单元格</td>
+						<td>表内容单元格</td>
+						<td>
+							<a href="">操作</a>
+						</td>
+					</tr>
+					<tr>
+						<td>表内容单元格</td>
+						<td>表内容单元格</td>
+						<td>
+							<a href="">操作</a>
+						</td>
+					</tr>
+					<tr class=table2>
+						<td>总计</td>
+						<td colspan="2">1000</td>
+					</tr>
+				</table>
+		</main>
+		
+		<main class="lan">
+			<h4><span class="color">|</span>这里以后是一个侧栏，这是侧栏的标题</h4>
+			<div class="shenqing">	
+			  <p>请输入邮箱地址：<input type="email" placeholder="这是一个文本输入框" /></p>
+			  <p class="color1">邮箱地址请按要求格式输入</p>
+			  <p>请输入密码：<input type="password" placeholder="这是一个文本输入框"/></p>
+			  <p>请重复密码：<input type="password" placeholder="这是一个文本输入框"/></p>
+			  <p>密码请为6-16位英文数字</p>
+					
+			  <p>性别:</p>
+			  <input type="radio" name="gender" />男
+			  <input type="radio" checked="checked" name="gender" />女<br/>
+			  <p>城市:</p>
+			  <select>
+         		  <option>北京</option>
+               	  <option>上海</option>
+				  <option>广州</option>
+				  <option>深圳</option>
+				  <option>杭州</option>
+			  </select><br/>
+			  <p>爱好:</p>
+			  <input type="checkbox" />运动
+              <input type="checkbox" />艺术
+			  <input type="checkbox" />科学<br />
+			  <p>个人描述 :
+			    <textarea placeholder="这是一个多行输入框,输入您的个人描述"></textarea>
+			  </p>
+			 
+			  <input type="submit" class="width" value="确认提交" style="border-radius:10px">
+			</div>	
+	    </main>
+		
+	  <footer>
+			<p class="footer">版权所有©</p>
+	  </footer>
+    </body>
+
+</html>
