@@ -1,0 +1,45 @@
+body{
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+	background-color: #eee;
+	font-size:small;
+}
+header{
+	color:#FFF;
+	height:50px;
+	line-height: 25px;
+	background-color: #555;
+}
+
+section.main{
+	margin-left: 243px;
+    background-color: #FFF;
+    padding:20px;
+    border-style: solid;
+    border-color: #999;
+}
+aside.slogo{
+    width:120px;
+    text-align:center;
+    border-style: solid;
+    border-color: #999;
+    padding:20px;
+    background-color: #FFF;
+    float: right;
+
+}
+aside.tlogo{
+    background-color: #FFF;
+    width:200px;
+    float:left;
+    border-style: solid;
+    border-color: #999;
+    padding:20px;
+    float: left;
+
+}
+footer{
+	color:#FFF;
+	background-color: #555;
+	text-align: center;
+	clear:right;
+}
