@@ -1,0 +1,193 @@
+@charset "utf-8"
+body{ 
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+}
+
+header{
+	width: 892px;
+	height: 61px;
+	border-style: solid;
+	border-width: 0px 0px 2px 0px;
+	border-color: #938e8c;
+    font-family: "SimHei";
+    margin-right: 15%;
+    margin-left: 15%;
+}
+footer{
+	width: 892px;
+	height: 61px;
+	border-style: solid;
+	border-width: 2px 0px 0px 0px;
+	border-color: #938e8c;
+    font-family: "SimHei";
+    margin-right: 15%;
+    margin-left: 15%;
+}
+span#footer{
+	color:#d45d5c;
+	font-size: 12px;
+	float: right;
+}
+main.body{
+	width: 892px;
+	margin-left: 15%;
+	margin-right: 15%;
+	background-color: #ffffff;
+}
+div#box1{
+	font-size: 12px;
+	background-color: #d55d5c;
+	width:102px;
+	height: 10px;
+	color:#ffffff;
+	padding: 41px 0px 10px 8px; 
+}
+time{
+	padding-top:41px;
+	font-size: 12px;
+	color:#d55d5c;
+	float: right;
+}
+main.Top{
+	margin:20px 20px 20px 0px;
+}
+div#tablerow{
+	display: table-row;
+}
+div#What,#When,#How{
+	width:200px;
+	padding-right: 30px;
+    display: table-cell;
+    font-size: 12px;
+    color:#231815;
+}
+h3{
+	font-size: 16px;
+	font-weight:bold;
+	text-decoration: underline;
+}
+h3.What{
+	color:#418c59;
+}
+h3.When{
+	color:#d2994f;
+}
+h3.How{
+	color:#cc7680;
+}
+div#left{
+	font-size: 12px;
+	color:#767777;
+	width:415px;
+}
+em#THE{
+	color:#f5e327;
+	font-weight:bold;
+	font-size: 72px;
+}
+h1{
+	color:#11456b;
+	font-weight: bold;
+	font-size: 38px;
+}
+h2{
+	color:#11456b;
+	font-weight: bold;
+	font-size: 33px;
+}
+div#box2{
+	width:415px;
+	height:2px;
+	background-color: #11456b;
+}
+div#img1{
+	float: left;
+	margin-right: 10px;
+}
+div#img2{
+	float: right;
+	margin:0px 15px 0px 12px;
+}
+div#right{
+    width:458px;
+    float: right;
+}
+div#box4{
+	width: 458px;
+	height: 61px;
+	color:#ffffff;
+	font-size: 26px;
+	background-color: #333;
+	opacity: 0.5;
+	position: absolute;
+	      top:855px;
+}
+em#qian{
+	color:#72b16a;
+	font-size:12px;
+}
+div#box5{
+	padding: 20px 20px 0px 0px;
+	color:#5a5b5b;
+	font-size: 16px;
+	background-color: #eeeed6;
+    width:439px;
+    height:338px;
+    line-height: 20px;
+    font-family: SimSun;
+    margin-top: 20px;
+}
+li{
+	margin:20px 0px 20px 0px;
+}
+em#box5{
+	font-size: 12px;
+}
+div#box6{
+	padding-top:20px;
+	float: left;
+	width: 250px;
+	height: 175px;
+	background-color: #d55d5c;
+	color:#ffffff;
+	padding-left: 10px;
+	margin-right: 10px;
+}
+aside{
+	width: 203px;
+	float:right;
+
+}
+div#box7{
+	width: 203px;
+	height: 2px;
+	background-color: #cc8091;
+	font-size: 12px;
+}
+h6{
+	margin:10px 0px 10px 0px;
+	padding:0px;
+	font-size: 24px;
+	color:#000000;
+	text-decoration: underline;
+	font-family: 微软雅黑;	
+}
+span#big{
+	font-size: 26px;
+}
+span#sobig{
+	font-size: 116px;
+	color:#75b86b;
+}
+span#middle{
+	margin-right: 10px;
+	margin-bottom: 10px;
+	font-size: 55px;
+	color:#cc8091;
+	float: left;
+}
+span#little{
+	margin-top: 30px;
+	font-size: 21px;
+	color:#cc8091;
+}
